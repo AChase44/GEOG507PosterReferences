@@ -21,3 +21,6 @@ Documentation and tutorial for using openSTARS. Note that the use of openSTARS r
 
 https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=hydro+flow+metrics+west
 USDA database of hydrological data, this particular link goes to a search for flow shapefiles
+
+openstarssupplemental.pdf
+Has more information on how to run openSTARS
