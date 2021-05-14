@@ -5,7 +5,7 @@ SSNvignette2014.pdf
 Documentation and manual for using SSN R package
 
 STARS_tutorial_2.0.0.pdf
-Tutorial for using STARS in arcmap or arcgis to prepare a landscape Network (LSN). 
+Tutorial for using STARS in arcmap or arcgis to prepare a landscape Network (LSN). I have been able to get this to produce LSNs, but it is finicky. 
 
 NationalStreamInternetProtocolandUserGuide.pdf
 a guide to preparing stream data so that it will work properly in STARS or openSTARS
@@ -17,7 +17,7 @@ https://github.com/MiKatt/openSTARS
 Github repository and tutorial for openSTARS
 
 openSTARS.pdf
-Documentation and tutorial for using openSTARS
+Documentation and tutorial for using openSTARS. Note that the use of openSTARS requires the use of the opensource GIS GRASS, winpython, and python, and also requires good working knowledge of databases and connecting python and grass to the right files locally. As of this writing, I have not yet been able to produce an LSN using openSTARS. 
 
 https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=hydro+flow+metrics+west
 USDA database of hydrological data, this particular link goes to a search for flow shapefiles
