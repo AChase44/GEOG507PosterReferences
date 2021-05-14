@@ -12,3 +12,9 @@ a guide to preparing stream data so that it will work properly in STARS or openS
 
 https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml
 USDA site with resources for using SSN & STARS
+
+https://github.com/MiKatt/openSTARS
+Github repository and tutorial for openSTARS
+
+openSTARS.pdf
+Documentation and tutorial for using openSTARS
