@@ -1,0 +1,14 @@
+rmrs_2017_isaak_d003.pdf
+A paper that used fish density surveys and national geospatial database frameworks for modeling fish densities in areas with no survey data. 
+
+SSNvignette2014.pdf
+Documentation and manual for using SSN R package
+
+STARS_tutorial_2.0.0.pdf
+Tutorial for using STARS in arcmap or arcgis to prepare a landscape Network (LSN). 
+
+NationalStreamInternetProtocolandUserGuide.pdf
+a guide to preparing stream data so that it will work properly in STARS or openSTARS
+
+https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml
+USDA site with resources for using SSN & STARS
