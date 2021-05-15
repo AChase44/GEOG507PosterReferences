@@ -24,3 +24,6 @@ USDA database of hydrological data, this particular link goes to a search for fl
 
 openstarssupplemental.pdf
 Has more information on how to run openSTARS
+
+A moving average approach for spatial statistical models of stream networks.pdf
+Paper detailing stream connected statistical models that can be done in SSN
